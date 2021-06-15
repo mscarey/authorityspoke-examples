@@ -16,4 +16,4 @@ AuthoritySpoke runs on Python versions 3.8 and up.
 
 Even if you don't install AuthoritySpoke, you can try out the example notebooks by clicking the Binder button below. If you use Binder, you'll be shown the directory structure of this repo. Navigate to the `notebooks` folder to find the tutorials.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mscarey/authorityspoke-examples/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mscarey/authorityspoke-examples/trunk)
