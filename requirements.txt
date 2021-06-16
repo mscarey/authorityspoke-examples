@@ -1,7 +1,7 @@
 anchorpoint>=0.5.0
 apispec[validation]~=4.3.0
 apispec-oneofschema
-AuthoritySpoke>=0.7.1
+git+git://github.com/mscarey/AuthoritySpoke.git@dcec5d13a6ada72c8c452e96cd7b11fdea3d2d16#egg=AuthoritySpoke
 eyecite~=2.2.0
 legislice>=0.5.2
 marshmallow>=3.10
