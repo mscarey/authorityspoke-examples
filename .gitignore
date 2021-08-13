@@ -1,4 +1,6 @@
+.env
 .pytest_cache
 *ipynb_checkpoints*
 examplevenv
 notebooks/path
+notebooks/making_holding.ipynb
